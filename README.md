@@ -1,10 +1,14 @@
-## Hi there 👋
+## 你好！ 👋
 
+我是[小树的小窝](https://space.bilibili.com/3537108350273794) ​🖐​
+
+
+<div>
 <!--
-**xiaoshu312/xiaoshu312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**xiaoshu312/xiaoshu312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--
+Here are some ideas to get you started:-->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
